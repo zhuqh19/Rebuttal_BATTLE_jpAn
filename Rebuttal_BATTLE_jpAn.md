@@ -26,7 +26,9 @@ These injection methods allow us to assess the effectiveness of our BATTLE frame
 
 **Question 4 Respond:**
 
-case study
+In social networks, explicit relationships typically refer to direct connections or interactions between users, while implicit relationships involve more subtle factors such as shared interests or social circles. Relying solely on explicit relationships for analysis cannot accurately distinguish between normal and anomalous nodes. For example, malicious users may use automated tools to mass-follow others, thereby creating a seemingly normal social circle. In such cases, relying only on explicit relationship analysis would fail to identify the differences in social behavior between malicious and normal users. Furthermore, considering only explicit relationships could lead to the misclassification of normal users as anomalous, especially if they lack significant interactions. Therefore, incorporating implicit relationship analysis becomes crucial. By examining factors such as shared interests and overlapping social circles, we can more accurately identify normal nodes, thereby improving the accuracy of anomaly detection.
+
+![](case_study.png)
 
 **Question 5 Respond:**
 
